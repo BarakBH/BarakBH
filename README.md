@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Barak Ben Hamo
 - 👀 I’m interested in Software and new technologies
 - 🌱 I’m currently learning Software engineering , currently at my 3rd year
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m currently working as a full stack developer.
 - 📫 How to reach me ...  PhoneNumber : +972 54 4544458 , linkdin profile : linkedin.com/in/barak-ben-hamo-0073bb202
 
 <!---
