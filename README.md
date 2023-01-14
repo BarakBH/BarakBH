@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Barak Ben Hamo
+- 👋 Hello, My name is Barak Ben Hamo
 - 👀 I’m interested in Software and new technologies
-- 🌱 I’m currently learning Software engineering , currently at my 3rd year
-- 💞️ I’m currently working as a full stack developer.
-- 📫 How to reach me ...  PhoneNumber : +972 54 4544458 , linkdin profile : linkedin.com/in/barak-ben-hamo-0073bb202
+- 🌱 I’m currently learning Software engineering , at my final year
+- 💞️ I’m currently working as a full stack developer
+- 📫 How to reach me ...  PhoneNumber : +972 54 4544458 , linkdin profile : linkedin.com/in/barak-ben-hamo
 
 <!---
 BarakBH/BarakBH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
