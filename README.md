@@ -25,7 +25,7 @@ I am a passionate full-stack developer with almost 2 years of experience in soft
 
 ## Projects
 Here are a few projects I've worked on:
-- [Project 1] - BallonExpress - (https://github.com/BarakBH/BalloonExpressCode)
+- [Project 1] - BalloonExpress - (https://github.com/BarakBH/BalloonExpressCode)
 - [Project 2] - Natours - (https://github.com/BarakBH/Natours)
 - [Project 3] - UsePopcorn - (https://github.com/BarakBH/usepopcorn)
 
