@@ -37,9 +37,10 @@ Here are a few projects I've worked on:
   - [Course 3] Complete JS - (https://www.udemy.com/share/101WeY3@NFP7hzl7gHAmU4JbK4kT_up4ecw1IcNJWmrxGHtzfOuiEegdww3D9PGwpJvdDOvViA==/)
 
 ## Let's Connect
-I'm always interested in connecting with like-minded individuals and collaborating on exciting projects. Feel free to reach out to me on LinkedIn or Twitter!
+I'm always interested in connecting with like-minded individuals and collaborating on exciting projects. Feel free to reach out to me on LinkedIn or my personal Portfolio!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barak-ben-hamo/)
+[![Portfolio]([![Website](https://img.shields.io/website/https/www.example.com.svg)](https://www.example.com)](https://www.linkedin.com/in/barak-ben-hamo/)
 
 Feel free to explore my GitHub repositories and projects. Don't hesitate to reach out if you have any questions or suggestions!
 
