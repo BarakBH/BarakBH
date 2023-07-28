@@ -40,7 +40,7 @@ Here are a few projects I've worked on:
 I'm always interested in connecting with like-minded individuals and collaborating on exciting projects. Feel free to reach out to me on LinkedIn or my personal Portfolio!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barak-ben-hamo/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barak-ben-hamo/)
+[![Website](https://img.shields.io/website/https/www.example.com.svg)]([https://www.example.com](https://baraks-portfolio-v2.netlify.app/))
 
 Feel free to explore my GitHub repositories and projects. Don't hesitate to reach out if you have any questions or suggestions!
 
