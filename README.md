@@ -35,6 +35,9 @@ Here are a few projects I've worked on:
   - [Course 1] React Full Course - (https://www.udemy.com/share/108PTK3@vt-W_gFcnNp9FBuJAGjg5lIxUcEY3t5yyiiagbX6QRNlvOthbm7-uEp02DCkPDqIag==/)
   - [Course 2] NodeJS,Express and MongoDB - (https://www.udemy.com/share/101Ycs3@fIC7R5Tik4QMidT3sDvhGDP_G4nArB8rNwif0PLIoW0zOCCGFr6nyOE0zNGRf07eew==/)
   - [Course 3] Complete JS - (https://www.udemy.com/share/101WeY3@NFP7hzl7gHAmU4JbK4kT_up4ecw1IcNJWmrxGHtzfOuiEegdww3D9PGwpJvdDOvViA==/)
+- Work Courses:
+  - [Angular John Bryce]
+  - [SQL & SSMS]
 
 ## Let's Connect
 I'm always interested in connecting with like-minded individuals and collaborating on exciting projects. Feel free to reach out to me on LinkedIn or my personal Portfolio!
