@@ -3,13 +3,13 @@
 Welcome to my GitHub profile!
 
 ## About Me
-I am a passionate full-stack developer with almost 2 years of experience in software engineering. I have a strong background in both front-end and back-end development, and I love tackling complex problems and building innovative solutions.
+I am a passionate full-stack developer with almost 4 years of experience in software engineering. I have a strong background in both front-end and back-end development, and I love tackling complex problems and building innovative solutions.
 
 ## Technical Skills
-- Languages: JavaScript, Typescript, Java, C, Python
-- Front-end: HTML, CSS/SCSS, React, Angular
-- Back-end: Node.js, Express.js, C#
-- Databases: MongoDB, MySQL, SSMS
+- Languages: JavaScript, Typescript, Java, C#, C, Python
+- Front-end: Angular, React, HTML, CSS/SCSS
+- Back-end: C#, .NET, Node.js, Express.js
+- Databases: SSMS, MongoDB, MySQL
 - Version Control: Git, GitHub, TFS
 
 ## Work Experience
@@ -25,9 +25,11 @@ I am a passionate full-stack developer with almost 2 years of experience in soft
 
 ## Projects
 Here are a few projects I've worked on:
-- [Project 1] - BalloonExpress - (https://github.com/BarakBH/BalloonExpressCode)
-- [Project 2] - Natours - (https://github.com/BarakBH/Natours)
-- [Project 3] - UsePopcorn - (https://github.com/BarakBH/usepopcorn)
+- [Project 1] - BalloonExpress - Graduation project React NodeJS MongoDB - (https://github.com/BarakBH/BalloonExpressCode)
+- [Project 2] - ProjectInfo - JWT Angular and .NET CORE - (https://github.com/BarakBH/ProjectInfos) (https://github.com/BarakBH/ProjectInfosAPI)
+- [Project 3] - SignalR - RealTime API-CLIENT communication via SignalR written in Angular and .NET Core - (https://github.com/BarakBH/SignalR_Client) (https://github.com/BarakBH/SignalR_API)
+- [Project 4] - Natours - (https://github.com/BarakBH/Natours)
+- [Project 5] - UsePopcorn - (https://github.com/BarakBH/usepopcorn)
 
 ## Education and Courses
 - Bachelor's Degree in Software Engineering (2023)
