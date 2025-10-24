@@ -3,20 +3,29 @@
 Welcome to my GitHub profile!
 
 ## About Me
-I am a passionate full-stack developer with almost 4 years of experience in software engineering. I have a strong background in both front-end and back-end development, and I love tackling complex problems and building innovative solutions.
+I'm a passionate full-stack software engineer with nearly 4 years of hands-on experience in developing large-scale, production-grade systems.  
+I currently work at **Clalit Health Service**, building and maintaining internal tools that improve daily workflows across hospitals and clinics.  
+I enjoy writing clean, secure, and efficient code — and turning complex business requirements into intuitive user experiences.
 
-## Technical Skills
-- Languages: JavaScript, Typescript, Java, C#, C, Python
-- Front-end: Angular, React, HTML, CSS/SCSS
-- Back-end: C#, .NET, Node.js, Express.js
-- Databases: SSMS, MongoDB, MySQL
-- Version Control: Git, GitHub, TFS
+### Technical Skills
+- **Languages:** JavaScript, TypeScript, C#, Java, Python, C  
+- **Front-End:** Angular, React, HTML, SCSS, RxJS, Angular Material  
+- **Back-End:** .NET Framework & .NET Core, Node.js, Express.js  
+- **Databases:** SQL Server (SSMS), MySQL, MongoDB  
+- **Tools & Platforms:** Git, GitHub, TFS, IIS, Postman, Visual Studio, VS Code 
 
-## Work Experience
-- Full-stack Developer at SHAAM (2022 - Present)
-  - Developed and maintained full-stack web applications using Angular, C#, and SSMS.
-  - Collaborated with cross-functional teams to design and implement new features.
-  - Ensured code quality through thorough testing and code reviews.
+### Work Experience
+**Full-Stack Developer – Clalit Health Services**  
+*2023 – Present*  
+- Developing and maintaining healthcare systems for internal staff and managers using Angular, .NET, and SQL Server.  
+- Designed data-driven dashboards, real-time SignalR modules, and secure API integrations.  
+- Improved UX and performance across multiple production environments.
+
+**Full-Stack Developer – SHAAM**  
+*2022 – 2023*  
+- Built and maintained web applications using Angular, C#, and SSMS.  
+- Collaborated in Agile teams, ensuring maintainable and testable code.  
+- Supported migration to modern front-end frameworks and backend APIs.
 
 ## Teaching Experience
 - Assistant Teacher at INT Institute (2023 - Present)
@@ -25,21 +34,23 @@ I am a passionate full-stack developer with almost 4 years of experience in soft
 
 ## Projects
 Here are a few projects I've worked on:
-- [Project 1] - BalloonExpress - Graduation project React NodeJS MongoDB - (https://github.com/BarakBH/BalloonExpressCode)
-- [Project 2] - ProjectInfo - JWT Angular and .NET CORE - (https://github.com/BarakBH/ProjectInfos) (https://github.com/BarakBH/ProjectInfosAPI)
-- [Project 3] - SignalR - RealTime API-CLIENT communication via SignalR written in Angular and .NET Core - (https://github.com/BarakBH/SignalR_Client) (https://github.com/BarakBH/SignalR_API)
-- [Project 4] - Natours - (https://github.com/BarakBH/Natours)
-- [Project 5] - UsePopcorn - (https://github.com/BarakBH/usepopcorn)
+- 🟢 **Freelancers Attendance App** – Angular + .NET + SQL  
+  End-to-end system for managing freelancer work hours across clinics, with real-time data updates, reporting, and Excel export.
+
+- 🟣 **StressButton System** – .NET Console + SignalR + Angular  
+  Internal emergency alert system deployed across Clalit computers and hospitals, featuring Windows notifications and webhook triggers.
+
+- 🟢 **ProjectInfos** – JWT Auth + Angular + .NET Core  
+  Secure project management platform for CRUD operations with token-based authentication.
+  
+- 🔵 **BalloonExpress** – MERN stack  
+  E-commerce graduation project for balloon delivery service with login, orders, and dashboard.
+
+- 🟡 **Natours** and **UsePopcorn** – Practice projects focusing on advanced React patterns and UI state management.
 
 ## Education and Courses
-- Bachelor's Degree in Software Engineering (2023)
-- Udemy Courses:
-  - [Course 1] React Full Course - (https://www.udemy.com/share/108PTK3@vt-W_gFcnNp9FBuJAGjg5lIxUcEY3t5yyiiagbX6QRNlvOthbm7-uEp02DCkPDqIag==/)
-  - [Course 2] NodeJS,Express and MongoDB - (https://www.udemy.com/share/101Ycs3@fIC7R5Tik4QMidT3sDvhGDP_G4nArB8rNwif0PLIoW0zOCCGFr6nyOE0zNGRf07eew==/)
-  - [Course 3] Complete JS - (https://www.udemy.com/share/101WeY3@NFP7hzl7gHAmU4JbK4kT_up4ecw1IcNJWmrxGHtzfOuiEegdww3D9PGwpJvdDOvViA==/)
-- Work Courses:
-  - [Angular John Bryce]
-  - [SQL & SSMS]
+- **B.Sc. in Software Engineering**, Azrieli College of Engineering (2023)  
+- Additional courses: Angular (John Bryce), SQL & SSMS, React (Udemy), Node.js & MongoDB (Udemy)
 
 ## Let's Connect
 I'm always interested in connecting with like-minded individuals and collaborating on exciting projects. Feel free to reach out to me on LinkedIn or my personal Portfolio!
