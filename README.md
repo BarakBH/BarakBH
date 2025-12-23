@@ -3,20 +3,30 @@
 Welcome to my GitHub profile!
 
 ## About Me
-I'm a passionate full-stack software engineer with nearly 4 years of hands-on experience in developing large-scale, production-grade systems.  
-I currently work at **Clalit Health Service**, building and maintaining internal tools that improve daily workflows across hospitals and clinics.  
-I enjoy writing clean, secure, and efficient code — and turning complex business requirements into intuitive user experiences.
+I'm a Full-Stack Software Engineer with ~4 years of hands-on experience building production-grade systems in both enterprise and startup environments.
+
+I currently work at PalWallet, a fintech startup, where I contribute to the development and evolution of a real-world product used by customers. My focus is on shipping features, improving existing systems, and collaborating closely with product and backend teams in a fast-moving environment.
+
+Previously, I worked on large-scale internal platforms in the healthcare domain, gaining strong experience in system stability, security, and maintainability.
+
+I care deeply about clean code, thoughtful architecture, and turning complex business requirements into reliable, user-friendly software.
 
 ### Technical Skills
-- **Languages:** JavaScript, TypeScript, C#, Java, Python, C  
-- **Front-End:** Angular, React, HTML, SCSS, RxJS, Angular Material  
-- **Back-End:** .NET Framework & .NET Core, Node.js, Express.js  
-- **Databases:** SQL Server (SSMS), MySQL, MongoDB  
-- **Tools & Platforms:** Git, GitHub, TFS, IIS, Postman, Visual Studio, VS Code 
+- **Languages:** JavaScript, TypeScript, C#, Java, Python 
+- **Front-End:** React, Angular, HTML, SCSS, RxJS  
+- **Back-End:** .NET Core / .NET Framework, Node.js, REST APIs  
+- **Databases:** SQL Server, MongoDB, MySQL
+- **Tools & Platforms:** Git, GitHub, Postman, IIS, Visual Studio, VS Code
 
 ### Work Experience
+**Full-Stack Software Engineer – PalWallet**
+*2025 – Present*
+- Developing and maintaining a fintech product in a startup environment
+- Building and refining product features used in production
+- Collaborating with cross-functional teams to deliver business-driven solutions
+
 **Full-Stack Developer – Clalit Health Services**  
-*2023 – Present*  
+*2023 – 2025*  
 - Developing and maintaining healthcare systems for internal staff and managers using Angular, .NET, and SQL Server.  
 - Designed data-driven dashboards, real-time SignalR modules, and secure API integrations.  
 - Improved UX and performance across multiple production environments.
@@ -60,7 +70,8 @@ I'm always interested in connecting with like-minded individuals and collaborati
 
 Feel free to explore my GitHub repositories and projects. Don't hesitate to reach out if you have any questions or suggestions!
 
-Happy coding! 🚀
+Thanks for stopping by — feel free to explore my repositories 🚀
+Happy coding!
 
 <!---
 BarakBH/BarakBH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
